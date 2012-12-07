@@ -1,0 +1,48 @@
+# ignore all
+# check another .ignore file in addons folder
+
+libs
+customAddons
+
+apps/addonsExamples/*
+apps/examples/*
+
+addons
+
+# Xcode Project
+xcuserdata/
+*.entitlements
+
+#OSX
+.DS_Store
+*.swp
+*~.nib
+# Thumbnails
+._*
+
+*~
+.svn/
+.DS_Store
+*.wav
+*.app/
+
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+
+# xml
+*.*.bak
+
+#emacs
+*.*~
